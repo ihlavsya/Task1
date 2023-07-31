@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstTask
-{
+namespace FirstTask.Shapes
+{   
     public class Triangle : Shape
     {
         public double FirstSegment { get; set; }
